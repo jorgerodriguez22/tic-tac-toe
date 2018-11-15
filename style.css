@@ -28,11 +28,12 @@
    
    .mark {
     cursor: default;
-    font-size: 2em
+    font-size: 2em;
+    background-color: rgb(170, 145, 5)
    }
    
    .win {
-    background-color: rgb(128, 0, 0)
+    background-color: rgb(32, 170, 5)
    }
    
    @font-face {
